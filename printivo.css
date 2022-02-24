@@ -1,0 +1,669 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#div1{
+    width: 100%;
+}
+.the{
+    width: 25%;
+    height: 8px;
+}
+#div1 p:nth-child(2){
+    background-color: rgb(218, 47, 106);
+}
+#div1 p:nth-child(3){
+    background-color: yellow;
+}
+#num{
+    color: rgb(218, 47, 106);
+    font-weight: bold;
+    text-decoration: none;
+}
+#num:hover{
+    color: rgb(77, 73, 74);
+}
+#ul{
+    font-size: 12px;
+    margin-top: -16px;
+    background-color: rgba(177, 167, 167, 0.179);
+    font-weight: 5%;
+}
+#ul li:nth-child(4){
+    margin-left: 700px;
+}
+#ul2{
+    margin-left: 80px;
+}
+#search{
+    width: 320px;
+    margin-left: 10px;
+    height: 30px;
+    
+}
+#ul2 li:nth-child(3){
+    margin-left: 10px;
+    background-color: rgb(218, 47, 106);
+    color: white;
+    height: 30px;
+    padding: 1px;
+}
+#submit{
+    height: 30px;
+    margin-left: -10px;
+    padding: 1px;
+}
+#sell{
+    height: 30px;
+    color: white;
+    margin-top: -10px;
+}
+#sign{
+    margin-left: 330px;
+}
+#hr1{
+    transform: rotate(90deg);
+    width: 40%;
+    margin-left: 73px;
+    margin-top: -9px;
+}
+#basket{
+    margin-left: 33px;
+}
+#ul3{
+    font-size: 15px;
+    display: none !important;
+}
+.navsearch{
+    display: none !important;
+}
+
+.navbar-nav{
+    margin-left: 100px;
+}
+.tes{
+    margin-left: -30px;
+}
+aside{
+    width: 21%;
+    background-color: rgb(227, 227, 233);
+    height: 328px;
+}
+.back{
+    transform: rotate(180deg);
+}
+.asidep{
+    border-bottom: thin solid white;
+}
+.asidep:hover{
+    background-color: rgba(247, 251, 255, 0.864);
+}
+.asidea{
+    text-decoration: none;
+    font-size: 14px;
+}
+#card1{
+    background-color:  rgb(218, 47, 106);
+    margin-top: -280px;
+    margin-left: 71px;
+}
+.body{
+    margin-left: 22px;
+}
+.top{
+    margin-top: 100px;
+}
+.drop{
+    transform: rotate(180deg);
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 20px;
+}
+.pics{
+    margin-right: 10px;
+}
+.cap{
+    justify-content: center;
+    font-size: 13px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+#start{
+    font-weight: bold;
+}
+.hrr{
+    margin: auto;
+}
+.cab{
+    background-color:  rgb(218, 47, 106);
+}
+.ml{
+    margin-right: 35px;
+}
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+    transition: ease-in-out 0.5s;
+}
+.brochure{
+    margin-right: 350px;
+}
+.card-text{
+    font-size: 15px;
+}
+.bold{
+    font-size: 18px;
+    font-weight: bold;
+}
+.comment{
+    background-color: rgba(160, 216, 218, 0.397);
+    width: 100%;
+    margin: auto;
+}
+.comm{
+    font-size: 14px;
+}
+.black{
+    font-weight: bold;
+}
+.gray{
+    color: blue;
+}
+#Logo{
+    background-color: rgb(236, 236, 252);
+}
+#hr2{
+    width: 43%;
+    height: 2px;
+    color: black;
+    margin-top: 150px;
+    margin-left: 60px;
+}
+#hr3{
+    width: 40%;
+    height: 2px;
+    color: black;
+    margin-top: -40px;
+    margin-left: 730px;
+}
+#tivo{
+    margin-top: -65px;
+    margin-left: 650px;
+}
+.mrtivo{
+    margin: auto;
+    margin-bottom: 80px;
+}
+.ttt{
+    font-size: 14px !important;
+}
+.mr{
+    margin-right: 100px;
+}
+.mg{
+    margin-right: 20px;
+}
+.form{
+    background-color: rgba(202, 202, 223, 0.616);
+}
+.subscribe{
+     font-size: 25px;
+    height: 40px;
+}
+.subscribediv{
+    margin-top: -20px;
+}
+.formclass{
+    width: 70%;
+    margin: auto;
+    height: 100px;
+    background-color: white;
+}
+select{
+    background-color: white;
+    border: none;
+    width: 280px !important;
+    height: 40px;
+}
+.rounded{
+    width: 30%;
+}
+input{
+    background-color: white;
+    border: none;
+    width: 230px !important;
+    height: 40px;
+}
+.same{
+    color:  rgb(218, 47, 106);
+}
+.mm{
+    text-decoration: none;
+    font-size: 13px;
+}
+.mm:hover{
+    color: gray !important;
+}
+#explore{
+    font-size: 22px;
+    color: rgb(218, 47, 106);
+    text-decoration: none;
+    margin-left: 800px ;
+}
+#featured{
+    margin-left: 70px;
+}
+.anima{
+    margin-left: 80px;
+    margin-right: 20px;
+}
+#olgablark{
+    margin-right: 80px;
+}
+.olgablark{
+    margin-right: 20px;
+}
+.tosin{
+    margin-right: 20px;
+}
+.footerdiv{
+    margin-right: 100px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.copyright{
+    margin-left: 200px;
+}
+#payment{
+    margin-top: -10px !important;
+}
+.formdiv{
+    font-size: 13px;
+}
+.subscribe{
+    font-size: 22px;
+    color: white;
+    margin-top: 35px;
+    height: 40px;
+}
+@media (max-width: 575.98px) {
+    #div1{
+        width: 100%;
+    }
+    .the{
+        width: 25%;
+        height: 8px;
+    }
+    #div1 p:nth-child(2){
+        background-color: rgb(218, 47, 106);
+    }
+    #div1 p:nth-child(3){
+        background-color: yellow;
+    }
+    #num{
+        color: rgb(218, 47, 106);
+        font-weight: bold;
+        text-decoration: none;
+    }
+    #num:hover{
+        color: rgb(77, 73, 74);
+    }
+    #ul{
+        font-size: 12px;
+        margin-top: -16px;
+        background-color: rgba(177, 167, 167, 0.179);
+        font-weight: 5%;
+    }
+    .discover{
+        display: none !important;
+    }
+    #ul li:nth-child(4){
+        margin-left: 100px;
+    }
+    #ul2{
+        margin-left: 10px;
+    }
+    .logo{
+        width: 120px;
+    }
+    #search{
+        width: 250px !important;
+        margin-left: -20px;
+        height: 30px;
+        
+    }
+    #ul2 li:nth-child(3){
+        margin-left: 10px;
+        background-color: rgb(218, 47, 106);
+        color: white;
+        height: 30px;
+        padding: 1px;
+    }
+    .navsubmit{
+        display: none !important;
+    }
+    .sellon{
+        display: none !important;
+    }
+    .navsearch{
+        display: inline;
+    }
+    #submit{
+        height: 30px;
+        margin-left: -10px;
+        padding: 1px;
+    }
+    #sell{
+        height: 30px;
+        color: white;
+        margin-top: -10px;
+    }
+    #sign{
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+    #hr1{
+        transform: rotate(90deg);
+        width: 40%;
+        margin-left: 63px;
+        margin-top: -11px;
+    }
+    #basket{
+        margin-left: 15px;
+        margin-top: 14px;
+    }
+    #ul3{
+        font-size: 15px;
+    }
+    .tes{
+        margin-left: -30px;
+    }
+    aside{
+        width: 21%;
+        background-color: rgb(227, 227, 233);
+        height: 328px;
+        display: none !important;
+    }
+    #backgroundimage{
+        width: 100%;
+    }
+    .back{
+        transform: rotate(180deg);
+    }
+    .asidep{
+        border-bottom: thin solid white;
+    }
+    .asidep:hover{
+        background-color: rgba(247, 251, 255, 0.864);
+    }
+    .asidea{
+        text-decoration: none;
+        font-size: 14px;
+    }
+    #card1{
+        background-color:  rgba(218, 47, 107, 0.7);
+        margin-top: -280px !important;
+        margin-left: 41px !important;
+        width: 300px !important;
+        align-items: center !important;
+    }
+    .body{
+        margin-left: 22px;
+    }
+    .top{
+        margin-top: 80px;
+    }
+    .drop{
+        transform: rotate(180deg);
+        margin-top: 10px;
+        margin-left: 35px;
+        margin-right: 20px;
+        display: none !important;
+     }
+    .pics{
+        margin-right: 10px;
+        }
+    .cap{
+        justify-content: center;
+        font-size: 13px;
+        margin-bottom: 40px;
+        margin-top: 20px;
+
+     }
+     .flexback{
+        background-color: rgba(236, 236, 252, 0.301);
+        width: 80%;
+        margin-bottom: 15px;
+        margin-left: 40px;
+     }
+    #start{
+        font-weight: bold;
+    }
+    .hrr{
+        margin: auto;
+    }
+    .cab{
+        background-color:  rgb(218, 47, 106);
+    }
+    .ml{
+        margin-right: 35px;
+    }
+    .card{
+        width: 300px !important;
+        margin: auto !important;
+    }
+    .id{
+        margin-top: 35px !important;
+    }
+    .card:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+    }
+    .brochure{
+        margin-right: 350px;
+    }
+    .card-text{
+        font-size: 15px;
+    }
+    .bold{
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .comment{
+        background-color: rgba(160, 216, 218, 0.397);
+        width: 100%;
+        margin: auto;
+    }
+    .comm{
+        font-size: 14px;
+    }
+    .one{
+        text-align: center;
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+    }
+    .two{
+        text-align: center;
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+    }
+    .black{
+        font-weight: bold;
+    }
+    .gray{
+        color: gray;
+    }
+    #Logo{
+        background-color: rgb(236, 236, 252);
+    }
+    #hr2{
+        width: 35%;
+        height: 2px;
+        color: black;
+        margin-top: 150px;
+        margin-left: 20px;
+    }
+    #hr3{
+        width: 35%;
+        height: 2px;
+        color: black;
+        margin-top: -40px;
+        margin-left: 230px;
+    }
+    #tivo{
+        margin-top: -65px;
+        margin-left: 150px;
+    }
+    .mrtivo{
+        margin: auto;
+        margin-bottom: 80px;
+    }
+    #top{
+        display: flex;
+        margin-left: 50px;
+        width: 400px;
+    }
+    #affordable{
+        display: flex;
+        justify-content: center;
+        margin-top: 10px !important;
+    }
+    #fast{
+        display: flex;
+        margin-left: 50px;
+        width: 400px;
+        margin-top: 10px !important;
+    }
+    .ttt{
+        font-size: 4px;
+    }
+    .mr{
+        margin-right: 100px;
+    }
+    #techcrunch{
+        margin-left: 100px !important;
+        margin-bottom: 30px;
+    }
+    #cnn{
+      margin-top: -20px;
+    }
+    #forbes{
+        margin-bottom: 30px;
+    }
+    #techpoint{
+        margin-top: 10px;
+        margin-left: 120px !important;
+        margin-bottom: 40px;
+    }
+    #techcabal{
+        margin-left: 120px !important; 
+    }
+    .mg{
+        margin-right: 20px;
+    }
+    .form{
+        background-color: rgba(202, 202, 223, 0.616);
+    }
+    .subscribe{
+         font-size: 25px;
+        height: 40px;
+        width: 270px;
+        padding-bottom: 6px;
+    }
+    .subscribediv{
+        margin-top: -20px;
+    }
+    .formclass{
+        width: 85%;
+        margin: auto;
+        height: 330px;
+        background-color: rgb(240, 241, 241);
+        text-align: center;
+    }
+    select{
+        background-color: white;
+        border: none;
+        width: 280px !important;
+        height: 40px;
+    }
+    .rounded{
+        width: 30%;
+    }
+    input{
+        background-color: white;
+        border: none;
+        width: 280px !important;
+        height: 40px;
+        text-align: center;
+    }
+    .same{
+        color:  rgb(218, 47, 106);
+    }
+    .mm{
+        text-decoration: none;
+        font-size: 13px;
+    }
+    .mm:hover{
+        color: gray !important;
+    }
+    #explore{
+        font-size: 22px;
+        color: rgb(218, 47, 106);
+        text-decoration: none;
+        margin-left: 800px ;
+        display: none !important;
+    }
+    #featuredproducts{
+        text-align: center !important;
+    }
+    #featured{
+        margin-left: 0px;
+        text-align: center !important;
+    }
+    .anima{
+        margin-left: 0px;
+        margin-right: 0px;
+        align-items: center !important;
+    }
+    #olgablark{
+        margin-right: 0px;
+        text-align: center;
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+    }
+    #ani{
+        text-align: center;
+    }
+    #tos{
+        text-align: center  ;
+    }
+    #olg{
+        margin-right: 0px;
+        text-align: center;
+    }
+    .tosin{
+        margin-right: 0px;
+        text-align: center;
+    }
+    .footerdiv{
+        margin-right: 100px;
+        margin-top: 0px;
+        margin-bottom: 70px;
+    }
+    .footdiv{
+        margin-left: 50px;
+        padding-top: 15px;
+    }
+    .copyright{
+        margin-left: 20px;
+    }
+    #payment{
+        margin-top: -10px !important;
+    }
+    .formdiv{
+        font-size: 13px;
+    }
+    .subscribe{
+        font-size: 22px;
+        color: white;
+        margin-top: 35px;
+        height: 40px;
+    }
+}
